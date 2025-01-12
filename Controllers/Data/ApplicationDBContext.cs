@@ -13,7 +13,6 @@ namespace FunnyWeb.Controllers.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Можно удалить этот метод, если он больше не нужен
         }
     }
 } 
